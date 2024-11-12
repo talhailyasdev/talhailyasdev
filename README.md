@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Mobile App Development**, **UI/UX Design**, and **Flutter**.
 - 🌱 I’m currently learning **Advanced Flutter Techniques** and **Backend Integration**.
 - 💞️ I’m looking to collaborate on **exciting app projects** and **innovative software solutions**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/talhailyasdev) | [Email](mailto:your.email@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/talha-ilyas-dev/) | [Email](mailto:talha.ilyas309@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m passionate about turning complex problems into simple, beautiful app experiences!
 
