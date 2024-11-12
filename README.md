@@ -13,16 +13,16 @@
 
 ### Languages & Frameworks
 <div align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.icons8.com/color/96/000000/dart.png" alt="Dart" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/000000/flutter.png" alt="Flutter" width="60" height="60"/>
 </div>
 
 ### Tools & Platforms
 <div align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.icons8.com/color/96/000000/firebase.png" alt="Firebase" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/000000/figma--v1.png" alt="Figma" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/000000/android-studio--v3.png" alt="Android Studio" width="60" height="60"/>
 </div>
 
 ### Other Skills
